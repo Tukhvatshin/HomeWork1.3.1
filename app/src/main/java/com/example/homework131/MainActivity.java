@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
         Button button_tr = findViewById(R.id.button_tonometer);
-        button_live.setOnClickListener(new View.OnClickListener() {
+        button_tr.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, TonometerActivity.class);

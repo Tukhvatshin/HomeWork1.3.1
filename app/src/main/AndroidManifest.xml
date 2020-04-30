@@ -10,9 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".TonometerActivity"
-        android:label="Тонометер"/>
+        android:label="@string/label_tonometer"/>
         <activity android:name=".LiveActivity"
-            android:label="Жизненные показатели" />
+            android:label="@string/label_live" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

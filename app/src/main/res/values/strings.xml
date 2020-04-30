@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Комплексная система мониторинга здоровья</string>
+    <string name="app_name">КСМЗ</string>
     <string name="button_save">Сохранить</string>
     <string name="editText_age">Возраст (полных лет)</string>
     <string name="editText_name">ФИО (полностью)</string>
@@ -17,4 +17,8 @@
     <string name="button_save_2">Сохранить</string>
     <string name="button_start_1">Стартовый экран</string>
     <string name="button_live_1">Жизненные показатели</string>
+    <string name="label_live">Жизненные показатели</string>
+    <string name="label_tonometer">Тонометер</string>
+    <string name="my_text">Комплексная система мониторинга здоровья (автор Тухватшин О.С.)</string>
+    <string name="my_icon">TODO</string>
 </resources>
