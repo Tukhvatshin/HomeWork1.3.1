@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Комплексная система мониторинга здоровья</string>
+    <string name="button_save">Сохранить</string>
+    <string name="editText_age">Возраст (полных лет)</string>
+    <string name="editText_name">ФИО (полностью)</string>
+    <string name="button_tonometer">Тонометр</string>
+    <string name="button_live">Жизненные показатели</string>
+    <string name="editText_weigh">Вес (кг.)</string>
+    <string name="editText_step">Количество шагов</string>
+    <string name="button_save_1">Сохранить</string>
+    <string name="button_tonometer_1">Тонометр</string>
+    <string name="button_start">Стартовый экран</string>
+    <string name="editText_sys">SYS (mmHg)</string>
+    <string name="editText_dia">DIA (mmHg)</string>
+    <string name="editText_pulse">Pulse (_/min)</string>
+    <string name="checkBox_td">Тахикардия</string>
+    <string name="button_save_2">Сохранить</string>
+    <string name="button_start_1">Стартовый экран</string>
+    <string name="button_live_1">Жизненные показатели</string>
+</resources>
