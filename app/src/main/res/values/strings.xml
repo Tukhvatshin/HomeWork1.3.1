@@ -21,4 +21,5 @@
     <string name="label_tonometer">Тонометер</string>
     <string name="my_text">Комплексная система мониторинга здоровья (автор Тухватшин О.С.)</string>
     <string name="my_icon">TODO</string>
+    <string name="Message">Ошибка ввода</string>
 </resources>
